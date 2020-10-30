@@ -3,7 +3,7 @@
 ```
 ```
 ### 分布式
-1. xxl-job(https://www.xuxueli.com/xxl-job/)
+1. [xxl-job](https://www.xuxueli.com/xxl-job/)
 
 ### 数据库
-1. mysqlExplain(https://blog.csdn.net/freedomai/article/details/45049719)
+1. [mysqlExplain](https://blog.csdn.net/freedomai/article/details/45049719)
