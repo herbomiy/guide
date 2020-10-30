@@ -3,4 +3,4 @@
 ```
 ```
 ### 分布式
-1. [xxjob]:(https://www.xuxueli.com/xxl-job/)
+1. xxjob[xxjob]:(https://www.xuxueli.com/xxl-job/)
